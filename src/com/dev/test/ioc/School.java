@@ -1,1 +1,1 @@
-package com.dev.test.ioc;/** * @version 1.0 * @Description * @Author wangbo * @Date 2021/1/7 10:10 上午 */public class School {    private  Student student;    private  Teacher teacher;    public  void study(){        student.send();        teacher.send();    }}
+package com.dev.test.ioc;/** * @version 1.0 * @Description * @Author wangbo * @Date 2021/1/7 10:10 上午 */public class School {    private Student student;    private Teacher teacher;    public void study() {        student.send();        teacher.send();    }}

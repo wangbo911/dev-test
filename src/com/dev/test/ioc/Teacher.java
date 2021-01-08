@@ -1,1 +1,1 @@
-package com.dev.test.ioc;/** * @version 1.0 * @Description * @Author wangbo * @Date 2021/1/7 10:09 上午 */public class Teacher {    public  void  send(){        System.out.println("teacher send!");    }}
+package com.dev.test.ioc;/** * @version 1.0 * @Description * @Author wangbo * @Date 2021/1/7 10:09 上午 */public class Teacher {    public void send() {        System.out.println("teacher send!");    }}

@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d82c60be-8510-4cd0-b009-5f6ccf02a0af" name="Default Changelist" comment="" />
+    <list default="true" id="d82c60be-8510-4cd0-b009-5f6ccf02a0af" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/dev/test/limit/Limiter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dev/test/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dev/test/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dev/test/array/MergeArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dev/test/array/MergeArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dev/test/ioc/MyIOC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dev/test/ioc/MyIOC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dev/test/ioc/School.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dev/test/ioc/School.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dev/test/ioc/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dev/test/ioc/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dev/test/ioc/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dev/test/ioc/Teacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dev/test/limit/ApiServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dev/test/limit/ApiServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dev/test/limit/RateLimiter1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dev/test/limit/RateLimter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dev/test/limit/RateLimter.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +26,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1mgibt5Qv8jsqIiOoxf4DEVrSmz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -28,6 +44,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -71,7 +88,7 @@
       <option name="presentableId" value="Default" />
       <updated>1609921709865</updated>
       <workItem from="1609921711130" duration="10768000" />
-      <workItem from="1610071755902" duration="2487000" />
+      <workItem from="1610071755902" duration="2908000" />
     </task>
     <servers />
   </component>
@@ -83,26 +100,26 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="709" y="273" key="#com.intellij.ide.util.MemberChooser/0.0.1792.1120@0.0.1792.1120" timestamp="1609926973541" />
-    <state x="389" y="93" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1610072040951">
+    <state x="389" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1610074726303">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="389" y="93" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1610072040951" />
-    <state width="1750" height="318" key="GridCell.Tab.0.bottom" timestamp="1610074081412">
+    <state x="389" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1610074726303" />
+    <state width="1750" height="318" key="GridCell.Tab.0.bottom" timestamp="1610074320838">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="318" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1610074081412" />
-    <state width="1750" height="318" key="GridCell.Tab.0.center" timestamp="1610074081409">
+    <state width="1750" height="318" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1610074320838" />
+    <state width="1750" height="318" key="GridCell.Tab.0.center" timestamp="1610074320835">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="318" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1610074081409" />
-    <state width="1750" height="318" key="GridCell.Tab.0.left" timestamp="1610074081408">
+    <state width="1750" height="318" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1610074320835" />
+    <state width="1750" height="318" key="GridCell.Tab.0.left" timestamp="1610074320834">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="318" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1610074081408" />
-    <state width="1750" height="318" key="GridCell.Tab.0.right" timestamp="1610074081411">
+    <state width="1750" height="318" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1610074320834" />
+    <state width="1750" height="318" key="GridCell.Tab.0.right" timestamp="1610074320837">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="318" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1610074081411" />
+    <state width="1750" height="318" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1610074320837" />
     <state width="1750" height="392" key="GridCell.Tab.1.bottom" timestamp="1610074057356">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
