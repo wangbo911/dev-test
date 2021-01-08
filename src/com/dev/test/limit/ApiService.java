@@ -1,0 +1,1 @@
+package com.dev.test.limit;import javax.management.Query;/** * @version 1.0 * @Description * @Author wangbo * @Date 2021/1/6 5:55 下午 */public interface ApiService {    void query(String ip);}
